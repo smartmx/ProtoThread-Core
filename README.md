@@ -8,7 +8,7 @@
 
  定时器中断周期必须为pt_ports.h中 1s / PROTOTHREAD_CLOCK_SECONDS
 
- 移植好的工程合集在：https://github.com/mx1117/ProtoThread-Templates
+ 移植好的工程合集在：https://github.com/smartmx/ProtoThread-Templates
 
 
 
